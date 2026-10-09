@@ -14,13 +14,19 @@ A completely free, privacy-conscious, local-first iPhone app for manually tracki
 
 [View project](https://github.com/teomanakmn/renewexit-app) · [App Store](https://apps.apple.com/tr/app/renewexit/id6783497676?l=tr)
 
+### TechDesk
+
+A Vue and Supabase IT help desk for ticket resolution and equipment tracking, with a versioned reference backend, database-enforced authorization, server-side account management, and automated tests. Validated in isolated staging with synthetic data.
+
+[View project](https://github.com/teomanakmn/techdesk)
+
 ### Maclet — In development
 
 A native macOS productivity hub with Finder integration, focused on small file and workflow actions. Currently in development.
 
 ## Tools
 
-Swift · SwiftUI · Python · Git · C# · SQL
+Swift · SwiftUI · JavaScript · Vue · Supabase · Python · Git · C# · SQL
 
 ## Elsewhere
 
